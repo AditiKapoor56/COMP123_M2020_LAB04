@@ -10,7 +10,7 @@ namespace COMP123_M2020_LAB04
     {
         static void Main(string[] args)
         {
-            Person param = new Person("Aditi", age: 19);
+            Person aditi = new Person("Aditi", age: 19);
 
             aditi.SaysHello();
 
